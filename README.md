@@ -4,4 +4,4 @@
 * Section: [IT 120-ICLX3]
 
 ## Run Command
-rock_paper_scissors.dart
+dart rock_paper_scissors.dart
