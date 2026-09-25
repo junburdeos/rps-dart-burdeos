@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-* Name: Jun Burdeos
+* Name: Junnerey Alvaro B. Burdeos
 * Section: [IT 120-ICLX3]
 
 ## Run Command
